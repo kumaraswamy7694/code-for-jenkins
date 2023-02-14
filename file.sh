@@ -3,3 +3,4 @@ date
 cal
 echo " time to say bye" 
 echo " new code added "
+echo " something triggering" 
